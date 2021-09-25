@@ -29,14 +29,14 @@ For Windows <code> py -3 -m pip install pushover </code> <br>
 For Linux <code> pip3 install pushover </code> <br>
 5. Make an pushover account and generate your apitoken and copy your account id
 6. Insert your values in the Notify.py and also insert the ip of the motion sensor in the Sensor.py
-7. Now run the Sensor.py - File
+7. Now run the Sensor.py - File <br>
 For Windows <code> py -3 Sensor.py </code> <br>
 For Linux <code> python3 Sensor.py </code> <br>
 8. Install and login in the pushover app. <br>
 
 <h2>Additional notes:</h2>
-- The tuya motion sensor needs to be connected to your homenetwork via the app
-- afterwards you can block the internet connection of the sensor via your router
+- The tuya motion sensor needs to be connected to your homenetwork via the app <br>
+- afterwards you can block the internet connection of the sensor via your router <br>
 - In Sensor.py the ip needs to be inserted! In Notify.py the api-token for the set application needs to be inserted aswell the account id. <br>
-- This can be done here https://pushover.net
+- This can be done here https://pushover.net <br>
 
