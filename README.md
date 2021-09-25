@@ -12,9 +12,10 @@ The project itself is complete and ready for use. I am open for improvments.
 Requirements for running the webui are:
 - python (3.x.x) <br>
 - pip (v3) or any other packetmanager <br>
-- pythonping
-- pushover
-- pushover account with a valid api token
+- pythonping <br>
+- pushover <br>
+- pushover account with a valid api token <br>
+- pushover app on the smartphone <br>
 
 <h2>Installation</h2>
 1. Download and Install Python. <br>
