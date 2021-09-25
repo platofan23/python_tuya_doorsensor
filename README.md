@@ -27,8 +27,8 @@ For Linux <code> pip3 install pythonping </code> <br>
 4. Install pushover <br>
 For Windows <code> py -3 -m pip install pushover </code> <br>
 For Linux <code> pip3 install pushover </code> <br>
-5. Make an pushover account and generate your apitoken and copy your account id
-6. Insert your values in the Notify.py and also insert the ip of the motion sensor in the Sensor.py
+5. Make an pushover account and generate your apitoken and copy your account id <br>
+6. Insert your values in the Notify.py and also insert the ip of the motion sensor in the Sensor.py <br>
 7. Now run the Sensor.py - File <br>
 For Windows <code> py -3 Sensor.py </code> <br>
 For Linux <code> python3 Sensor.py </code> <br>
